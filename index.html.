@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudyFlow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to StudyFlow</h1>
+    </header>
+    <main>
+        <section id="notes">
+            <h2>Your Notes</h2>
+            <!-- You can add input fields here later -->
+        </section>
+        <section id="quiz">
+            <h2>Quiz Section</h2>
+            <!-- Quiz will go here later -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 StudyFlow</p>
+    </footer>
+    <script src="script.js"></script>
+</body
