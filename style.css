@@ -1,0 +1,12 @@
+<label for="bgColor">Choose Background Color:</label>
+<input type="color" id="bgColor">body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+input[type="color"] {
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+}
